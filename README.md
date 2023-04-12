@@ -2,6 +2,10 @@
 
 <hr>
 
-An Automation Engineer with good knowledge on development skills. Highly organized, self-motivated, and productive. with experience creating and implementing frameworks to Web UI Testing with Selenium and API Testing with Axios, both using JavaScript. Good practices using SOLID, unit test and design patterns to have a framework more robust and maintainable.
-Also. I was a frontend developer with more than 2 years of experience in development with typescript and angular v8.
+A Pasionated of the code, with knowledge in JavaScript, Selenium, Angular and typescript, learning more currently
 
+I already have more than 3 years of experience developing, the most recent is as QA Automation, and Frontend Developer
+
+<div align="right">
+  <img src="https://raw.githubusercontent.com/melvincwng/melvincwng/master/assets/finnAndJakePixelArt.gif" width="270px" height="145.4"/>
+</div>
