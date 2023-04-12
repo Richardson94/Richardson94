@@ -7,5 +7,5 @@ A Pasionated of the code, with knowledge in JavaScript, Selenium, Angular and ty
 I already have more than 3 years of experience developing, the most recent is as QA Automation, and Frontend Developer
 
 <div align="right">
-  <img src="https://raw.githubusercontent.com/melvincwng/melvincwng/master/assets/finnAndJakePixelArt.gif" width="270px" height="145.4"/>
+  <img src="./assets/finnAndJakePixelArt.gif" width="270px" height="145.4"/>
 </div>
