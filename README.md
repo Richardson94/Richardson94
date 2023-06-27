@@ -1,10 +1,22 @@
 ### Hi there 👋, I'm Richard
+> FullStack Developer 👨‍💻
 
-<hr>
+```bash
+with more than 3 years of experience
+```
 
-A Pasionated of the code, with knowledge in JavaScript, Selenium, Angular and typescript, learning more currently
+💬 **About Me:** 
+- 🚀 Passionated about code
+- 📚 Knowledge of languages and technologies
+    + Javascript
+    + Typescript
+    + Selenium
+    + Angular
+    + Spring (learning)
 
-I already have more than 3 years of experience developing, the most recent is as QA Automation, and Frontend Developer
+ **Hobies:** 
+- ⛺ Trecking
+- 👾 Circuit Building
 
 <div align="right">
   <img src="./assets/finnAndJakePixelArt.gif" width="270px" height="145.4"/>
