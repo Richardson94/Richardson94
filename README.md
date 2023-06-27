@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Richard
+<h1>Hi there 👋, I'm Richard</h1>
 > FullStack Developer 👨‍💻
 
 ```bash
