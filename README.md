@@ -7,16 +7,18 @@
 ```
 
 💬 **About Me:** 
-- 🚀 Passionated about code
+- 🚀 Passionated of code
 - 📚 Knowledge of languages and technologies
     + Javascript
     + Typescript
     + Selenium
     + Angular
     + Spring (learning)
+    + SQL
+    + CI/CD
 
- **Hobies:** 
-- ⛺ Trecking
+ **Hobbies:** 
+- ⛺ Trekking
 - 👾 Circuit Building
 
 <div align="right">
