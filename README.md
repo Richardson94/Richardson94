@@ -1,8 +1,9 @@
 <h1>Hi there 👋, I'm Richard</h1>
-> FullStack Developer 👨‍💻
+
+>    FullStack Developer 👨‍💻
 
 ```bash
-with more than 3 years of experience
+>_ with more than 3 years of experience
 ```
 
 💬 **About Me:** 
