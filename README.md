@@ -14,6 +14,7 @@
     + Selenium
     + Angular
     + Spring (learning)
+    + NodeJs
     + SQL
     + CI/CD
 
